@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Guys!!! </h2>
+<h2>cicd project </h2>
 </body>
 </html>
